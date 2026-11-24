@@ -1,0 +1,77 @@
+{
+  "Docking": {"Data": []},
+  "MainWindow": {"GLOBAL": {
+    "font": "Roboto Regular",
+    "fps": "0",
+    "height": "917",
+    "maximized": "0",
+    "style": "0",
+    "userScaling": "100",
+    "width": "863",
+    "xpos": "0",
+    "ypos": "0"
+  }},
+  "Table": {"0xED901DC8,2": {"RefScale": "13"}},
+  "Window": {
+    "DS": {
+      "Collapsed": "0",
+      "Pos": "563,244",
+      "Size": "278,152"
+    },
+    "Debug##Default": {
+      "Collapsed": "0",
+      "Pos": "60,60",
+      "Size": "400,400"
+    },
+    "Display": {
+      "Collapsed": "0",
+      "Pos": "124,207",
+      "Size": "650,348"
+    },
+    "Joysticks": {
+      "Collapsed": "0",
+      "Pos": "9,616",
+      "Size": "796,211"
+    },
+    "Keyboard 0 Settings": {
+      "Collapsed": "0",
+      "Pos": "11,28",
+      "Size": "300,560"
+    },
+    "NetworkTables": {
+      "Collapsed": "0",
+      "Pos": "109,82",
+      "Size": "750,170"
+    },
+    "NetworkTables Info": {
+      "Collapsed": "0",
+      "Pos": "71,77",
+      "Size": "750,149"
+    },
+    "Other Devices": {
+      "Collapsed": "0",
+      "Pos": "528,25",
+      "Size": "250,629"
+    },
+    "Plot \u003c0\u003e": {
+      "Collapsed": "0",
+      "Pos": "60,60",
+      "Size": "700,400"
+    },
+    "Robot State": {
+      "Collapsed": "0",
+      "Pos": "233,36",
+      "Size": "309,164"
+    },
+    "System Joysticks": {
+      "Collapsed": "0",
+      "Pos": "233,205",
+      "Size": "269,228"
+    },
+    "Timing": {
+      "Collapsed": "0",
+      "Pos": "233,443",
+      "Size": "357,156"
+    }
+  }
+}

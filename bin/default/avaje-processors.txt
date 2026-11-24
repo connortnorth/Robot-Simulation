@@ -1,0 +1,2 @@
+avaje-spi-core
+avaje-jsonb-generator
